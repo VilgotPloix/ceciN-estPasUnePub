@@ -1,7 +1,7 @@
 body
 {
     margin: 0px;
-    animation: body .1s infinite;
+    animation: body 3s infinite;
     width: 100%;
     height: 667px;
 }
